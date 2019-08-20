@@ -9,10 +9,6 @@ Lane-Detection for Autonomous Vehicles
     3. Identifying Canny Edges
     4. Potraying indicators
 
-# Input
-![Road-image](test_image.jpg)
-![Image video_input](test_vide0.mov)
-
 # Output
-![Image description](link-to-image)
-![Image description](link-to-image)
+![Road-image](test_image.jpg)
+![Image video_input](test_video.mov)
